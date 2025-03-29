@@ -1,0 +1,23 @@
+site_name: Project Documentation
+
+site_url: http://localhost:8005
+repo_name: rajatgupta1988/BoilerPlate
+repo_url: https://github.com/rajatgupta1988/BoilerPlate
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.suggest
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Backend (Django): backend.md
+  - Frontend (React): frontend.md
+  - Monitoring: monitoring.md
+  - API: api.md
+  - Docker Setup: docker.md
+  - Makefile: makefile.md

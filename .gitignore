@@ -1,0 +1,12 @@
+# __pycache__/      # Python cache folders
+# *.pyc             # Compiled Python bytecode files
+# .env              # Environment files (secrets, keys)
+# venv/             # Python virtual environment folder
+# node_modules/     # Frontend dependencies
+# build/            # Frontend build output
+# dist/             # Frontend distribution folder
+# *.log             # Log files
+# *.sqlite3         # SQLite databases (if used locally)
+
+# backend/.env      # Backend .env file (use .env.example instead)
+# frontend/.env     # Frontend .env file (use .env.example instead)
